@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evangelia-Alkistis Lemonaki</h1>
 <h3 align="center">A 23 year old Electrical & Computer Engineering student from Volos, Greece</h3>
 
-- 🔭 I’m currently working on **my thesis** Check it out: <a href="https://github.com/alemonaki/thesis-snackify">Snackify project</a>
+- 🔭 I’m currently working on **my thesis**. Check it out: <a href="https://github.com/alemonaki/thesis-snackify">Snackify project</a>
 
 - 🌱 I’m currently learning **Django, PostgreSQL**
 
