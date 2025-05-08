@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evangelia-Alkistis Lemonaki</h1>
-<h3 align="center">A 23 year old Electrical & Computer Engineering student from Volos, Greece</h3>
+<h3 align="center">A 25 year old Data Scientist working at Cerved.</h3>
 
-- 🔭 I’m currently working on **my thesis**. Check it out: <a href="https://github.com/alemonaki/thesis-snackify">Snackify project</a>
+- 🔭 I’m currently doing my MSc in **Data Science** in Athens University of Business and Economics. Check it out: <a href="https://datascience.aueb.gr/">Data Science-AUEB</a>
 
-- 🌱 I’m currently learning **Django, PostgreSQL**
+- 🌱 I’m currently learning **NLP, Machine Learning**
 
 - 📫 How to reach me **alkisti.lemonaki.99@gmail.com**
 
